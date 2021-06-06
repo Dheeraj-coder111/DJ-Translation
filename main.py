@@ -6,7 +6,7 @@ while True:
     language = input("what language do you want to translate it in: ")
     translated = translator.translate(ask, dest=language)
     print(translated.text)
-    print('Thank you for useing DJ TRANSLATE ')
+    print('Thank you for using DJ TRANSLATE ')
 
 
 
